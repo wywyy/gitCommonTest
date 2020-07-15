@@ -1,0 +1,14 @@
+{
+  "name": "simple",
+  "version": "1.0.0",
+  "description": "用用webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "吴月",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.43.0"
+  }
+}
